@@ -1,0 +1,16 @@
+{
+    "apps": [
+        {
+            "name": "osu!",
+            "icon": "icons/osu.svg",
+            "desc": "A free to play rhythm game",
+            "data": "apps/osu.app.zip"
+        },
+        {
+            "name": "run 3",
+            "icon": "icons/run.png",
+            "desc": "A 3D platformer",
+            "data": "apps/run.app.zip"
+        }
+    ]
+}
