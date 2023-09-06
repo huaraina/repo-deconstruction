@@ -4,19 +4,22 @@
             "name": "osu!",
             "icon": "icons/osu.svg",
             "desc": "A free to play rhythm game",
-            "data": "apps/osu.app.zip"
+            "data": "apps/osu.app.zip",
+            "category": "game"
         },
         {
             "name": "run 3",
             "icon": "icons/run.png",
             "desc": "A 3D platformer",
-            "data": "apps/run.app.zip"
+            "data": "apps/run.app.zip",
+            "category": "game"
         },
         {
             "name": "Flash Plugin",
             "icon": "icons/flash.svg",
             "desc": "A plugin to run SWF Files",
-            "data": "apps/flash.app.zip"
+            "data": "apps/flash.app.zip",
+            "category": "plugin"
         }
     ]
 }
