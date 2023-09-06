@@ -11,6 +11,12 @@
             "icon": "icons/run.png",
             "desc": "A 3D platformer",
             "data": "apps/run.app.zip"
+        },
+        {
+            "name": "Flash Plugin",
+            "icon": "icons/flash.svg",
+            "desc": "A plugin to run SWF Files",
+            "data": "apps/flash.app.zip"
         }
     ]
 }
